@@ -15,8 +15,6 @@ end
 gem 'mini_magick'
 gem 'fog'
 gem 'carrierwave'
-gem 'net-ssh'
-gem 'figaro'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
